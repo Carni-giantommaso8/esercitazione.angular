@@ -1,0 +1,4 @@
+1. Angular CLI è uno strumento a riga di comando per inizializzare, sviluppare, eseguire la build e mantenere le applicazioni Angular.
+2. Gitpod è un ambiente di sviluppo cloud istantaneo che si avvia nel browser, fornendo un ambiente Linux completo per scrivere codice.
+3. Il comando per vedere l'elenco dei repository remoti è: git remote -v.
+4. Il comando per creare una nuova applicazione Angular è: ng new nome-applicazione.
